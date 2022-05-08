@@ -1,6 +1,4 @@
 ---
-
----
 # About me / HaKKIMDA: 
 
 ## Kim bu mon4ros3?
