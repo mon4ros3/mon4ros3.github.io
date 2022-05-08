@@ -1,4 +1,3 @@
----
 # About me / HaKKIMDA: 
 
 ## Kim bu mon4ros3?
@@ -10,4 +9,3 @@ I were interested in computer and cyber security since 2016. I start work active
 
 ### Not: Bu blogda Türkçe ve İngilizce kısım bulumaktadır. Türkçe kısımlarda mümkün mertebe Türkçe kelimeler kullanılacaktır.
 ### Note: This block include Turkish and English parts. In Turkish parts, include Turkish words much as possible. 
-```
