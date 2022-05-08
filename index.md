@@ -1,5 +1,5 @@
-# ABOUT ME: 
-# HAKKIMDA: 
+# ABOUT ME  / HAKKIMDA: 
+
 
 ## Kim bu mon4ros3?
 
